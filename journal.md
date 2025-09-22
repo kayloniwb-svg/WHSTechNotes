@@ -17,3 +17,8 @@ Today, I created my first GitHub account and repository. I'm excited to start us
 
 
 An AI-powered nutritional assistant, “NutriSense,” would analyze user-inputted food photos and provide immediate, personalized dietary feedback based on health goals. The system would meet requirements by using computer vision to identify foods and apply machine learning algorithms to assess nutritional content against the user's specific health profile, such as managing diabetes or weight. NutriSense would be useful by offering real-time, actionable health information that helps individuals make better food choices, thereby promoting healthier lifestyles and potentially reducing the incidence of diet-related health issues.
+
+
+# September 22, 2025
+
+I feel like saying no to this because poeple can abuse the privilege of this and can get credit for it.On the other hand,This can be a benefit to people who cant handle working in person,this can help with young workers.Another thing is that thid can be useless for most people,like roblox os a child age game,or higher,this can get macroed with onine abusers,hackers and mess up the co workers work space,this can cause issues.
