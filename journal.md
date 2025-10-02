@@ -13,7 +13,7 @@ Today, I created my first GitHub account and repository. I'm excited to start us
  For example, professional sports teams now rely on data scientists and computer scientists to analyze large datasets of player and game statistics. A concrete instance is how advanced statistical models, developed through computer science, revolutionized Major League Baseball by allowing teams to identify and recruit undervalued players. Computer-generated analytics evaluate player performance beyond traditional stats like batting average. This helps to identify undervalued players and make better decisions, mirroring how professional teams find hidden talent.
  Computer science inteGRATion allows for sophisticated predictive modeling and data visualization, going beyond simple statistical analysis. This gives teams the ability to anticipate outcomes and visualize complex data in an understandable way for coaches and players. Computer science provides actionable insights based on robust data, allowing sports organizations to move beyond intuition and tradition, which leads to more strategic, informed, and ultimately, more successful decisions.
 
-#September 15, 2025
+# September 15, 2025
 
 
 An AI-powered nutritional assistant, “NutriSense,” would analyze user-inputted food photos and provide immediate, personalized dietary feedback based on health goals. The system would meet requirements by using computer vision to identify foods and apply machine learning algorithms to assess nutritional content against the user's specific health profile, such as managing diabetes or weight. NutriSense would be useful by offering real-time, actionable health information that helps individuals make better food choices, thereby promoting healthier lifestyles and potentially reducing the incidence of diet-related health issues.
@@ -22,3 +22,9 @@ An AI-powered nutritional assistant, “NutriSense,” would analyze user-inputt
 # September 22, 2025
 
 I feel like saying no to this because poeple can abuse the privilege of this and can get credit for it.On the other hand,This can be a benefit to people who cant handle working in person,this can help with young workers.Another thing is that thid can be useless for most people,like roblox os a child age game,or higher,this can get macroed with onine abusers,hackers and mess up the co workers work space,this can cause issues.
+
+
+
+# September 30, 2025
+
+The phrase "6, 7" is an internet meme originating from the song "Doot Doot (6 7)" by rapper Skrilla. It is often repeated with a specific hand motion. The phrase, sometimes paired with edits of basketball players like LaMelo Ball, is intentionally nonsensical. Its humor comes from being a shared inside joke that adults typically don't understand. Students repeat it playfully and randomly in conversations or hallways, sometimes as an ironic, unserious punchline. The mood is goofy, and its meaninglessness is entirely the point.
