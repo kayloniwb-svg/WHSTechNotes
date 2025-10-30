@@ -458,13 +458,13 @@ As the leader of our school, my technology and AI policy would balance innovatio
 
 
 
-# october 20
+# october 20, 2025
 
 | Name     | Class | Seat |
 | :------- | :---- | :--- |
-| Franklin |       |      |
-| Hardeep  |       |      |
-| Marla    |       |      |
+| Franklin |  second     |91A      |
+| Hardeep  |      third | 61F     |
+| Marla    |     first  |   35B   |
 
 
 
