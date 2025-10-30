@@ -471,3 +471,5 @@ As the leader of our school, my technology and AI policy would balance innovatio
 # October 27, 2025
 
 Technology plays a pivotal role in every stage of a natural disaster, from early detection to long-term recovery. Before a hurricane, for example, satellite technology and Doppler radar are crucial for forecasting the storm's path and intensity, allowing the National Hurricane Center to issue timely warnings [1]. During the event, smartphone apps and emergency alert systems deliver these life-saving warnings directly to individuals, providing real-time instructions on evacuation routes and shelter locations, while battery-operated or hand-crank radios offer a reliable communication lifeline if the power grid fails [1]. After the storm, social media platforms and services like the American Red Cross's "Safe and Well" list help loved ones reconnect, and drones are used by first responders to assess damage in hard-to-reach areas and locate survivors more efficiently [1]. These tools collectively save lives by providing actionable information and facilitating a coordinated response.
+
+
