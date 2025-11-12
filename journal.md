@@ -472,4 +472,15 @@ As the leader of our school, my technology and AI policy would balance innovatio
 
 Technology plays a pivotal role in every stage of a natural disaster, from early detection to long-term recovery. Before a hurricane, for example, satellite technology and Doppler radar are crucial for forecasting the storm's path and intensity, allowing the National Hurricane Center to issue timely warnings [1]. During the event, smartphone apps and emergency alert systems deliver these life-saving warnings directly to individuals, providing real-time instructions on evacuation routes and shelter locations, while battery-operated or hand-crank radios offer a reliable communication lifeline if the power grid fails [1]. After the storm, social media platforms and services like the American Red Cross's "Safe and Well" list help loved ones reconnect, and drones are used by first responders to assess damage in hard-to-reach areas and locate survivors more efficiently [1]. These tools collectively save lives by providing actionable information and facilitating a coordinated response.
 
+# November 3, 2025
+
+
+When the SNAP program faces funding disruptions, as occurred over this past weekend due to a government shutdown, millions of low-income families and vulnerable individuals struggle to afford food, making it a critical issue. The primary problem is the immediate loss of a key safety net, which forces people to go hungry, buy cheaper, less nutritious food, or turn to already-strained food banks, leading to increased food insecurity and potential health and educational impacts. Technology could help by powering apps or websites that instantly connect people to local food banks, free meal programs, and grocers with available stock, potentially using real-time inventory and navigation features. Furthermore, community alert systems could use text messages to notify users about emergency food distribution sites, bypassing the need for a constant internet connection. However, significant challenges exist, as many low-income individuals lack reliable internet access or smartphones, and privacy concerns regarding location data or personal information could hinder adoption. If I were the designer, I would create a simple, text-message-based system accessible via any mobile phone, ensuring maximum reach and minimal technical barriers during a crisis.
+
+
+# November 10, 2025
+
+Thanksgiving break is something many people look forward to for various reasons like spending time with family, enjoying holiday food and traditions, and getting a rest from school or work.but i dont really celebrate.
+
+
 
