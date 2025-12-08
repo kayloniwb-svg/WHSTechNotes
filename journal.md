@@ -493,3 +493,7 @@ Regarding compensation, the average annual salary for a Drone Software Engineer 
 
 
 
+# December 8, 2025 **A self-driving car might fail to recognize a stopped school bus because its perception system—cameras and LiDAR—struggles with the school bus stop arm, a relatively small, dynamic object [1]. The AI's training data might be insufficient to cover all lighting conditions or angles, or the stop arm's motion against complex urban backgrounds could confuse the car's object classification models [1]. The primary challenge lies in the AI accurately interpreting the meaning of the flashing red lights and the extended arm as a legal requirement to stop, not just another object to navigate around [1]. As a Waymo programmer, one safety improvement would be to implement a dedicated, high-priority software rule that specifically identifies the unique visual signature of school buses and their stop indicators [1]. This rule would be hardcoded to immediately trigger an emergency stop if a school bus signal is detected within a certain proximity, overriding standard navigation logic and preventing the vehicle from proceeding until the signal is explicitly confirmed as clear [1].
+**
+
+
