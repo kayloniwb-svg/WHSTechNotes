@@ -502,3 +502,9 @@ Regarding compensation, the average annual salary for a Drone Software Engineer 
 
 Winter break will be a great break i hope because i need sleep....and we getting gifts so that will be fun.
 
+
+
+
+# January 6, 2026
+
+This break was quit fun it was chill we did some things and did news things.We also ate somethings it was my brothers birthday on the 22nd so we took him to olive garden and it was delicious.We also chilled and played outside,went to my cousins house.
