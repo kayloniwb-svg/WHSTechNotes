@@ -506,5 +506,9 @@ Winter break will be a great break i hope because i need sleep....and we getting
 
 
 # January 6, 2026
-
 This break was quit fun it was chill we did some things and did news things.We also ate somethings it was my brothers birthday on the 22nd so we took him to olive garden and it was delicious.We also chilled and played outside,went to my cousins house.
+
+
+# January 12, 2026
+
+Autcraft was created by Stuart Duncan in 2013 as a direct response to the problem of widespread bullying and exclusion his autistic son and other neurodivergent children faced in unmoderated public online gaming spaces. It was designed as a safe, moderated, and welcoming private Minecraft server where autistic individuals and their families could play without fear of harassment or judgment. Protection from Harm: Unmoderated online spaces often expose vulnerable users to cyberbullying, hate speech, trolling, and other forms of harassment, which can have significant emotional and psychological impacts.Protection from Harm: Unmoderated online spaces often expose vulnerable users to cyberbullying, hate speech, trolling, and other forms of harassment, which can have significant emotional and psychological impacts.
