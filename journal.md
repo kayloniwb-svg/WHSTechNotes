@@ -513,9 +513,13 @@ This break was quit fun it was chill we did some things and did news things.We a
 
 Autcraft was created by Stuart Duncan in 2013 as a direct response to the problem of widespread bullying and exclusion his autistic son and other neurodivergent children faced in unmoderated public online gaming spaces. It was designed as a safe, moderated, and welcoming private Minecraft server where autistic individuals and their families could play without fear of harassment or judgment. Protection from Harm: Unmoderated online spaces often expose vulnerable users to cyberbullying, hate speech, trolling, and other forms of harassment, which can have significant emotional and psychological impacts.Protection from Harm: Unmoderated online spaces often expose vulnerable users to cyberbullying, hate speech, trolling, and other forms of harassment, which can have significant emotional and psychological impacts.
 
-# Januaey 20, 2025
+# January 20, 2026
 
 Claim: One way technology can promote fairness and justice is by using social media platforms to amplify the voices of marginalized communities and document injustices. 
 Evidence: An example of this is the use of smartphones and hashtags, such as #BlackLivesMatter or #MeToo, to spread awareness about injustice in real-time. People in local communities can record incidents of discrimination or unequal treatment and immediately share them online, bringing global attention to issues that might otherwise be ignored. 
 Reasoning: This use of technology matters because it acts as a tool for accountability, forcing authorities to address issues and allowing citizens to demand justice. By providing a platform for people who have been historically excluded to share their stories, technology helps create a more equitable society where voices are heard and action is taken, aligning with Dr. King’s belief in taking action. 
 Reflection: Technology has made it possible to turn individual experiences into a collective movement for change. 
+
+# January 29, 2026
+
+This week i was very sick so i didnt come to school and didnt get to test yet.Priar to that im feeling much better now.Other than that im back and ready to test when they have me test,and i belive it will be challenging and tough,but imma push through!!!!
