@@ -524,5 +524,5 @@ Reflection: Technology has made it possible to turn individual experiences into 
 
 This week i was very sick so i didnt come to school and didnt get to test yet.Priar to that im feeling much better now.Other than that im back and ready to test when they have me test,and i belive it will be challenging and tough,but imma push through!!!!
 
-# Febraury 3, 2026 
+# Febraury 2, 2026 
 In shared environments like classrooms and workplaces, professional behavior ensures a respectful, comfortable, and productive atmosphere for everyone. It means recognizing that personal choices, from hygiene to volume level, directly impact the comfort, focus, and well-being of others. 
