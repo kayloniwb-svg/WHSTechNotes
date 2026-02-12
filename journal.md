@@ -526,3 +526,13 @@ This week i was very sick so i didnt come to school and didnt get to test yet.Pr
 
 # Febraury 2, 2026 
 In shared environments like classrooms and workplaces, professional behavior ensures a respectful, comfortable, and productive atmosphere for everyone. It means recognizing that personal choices, from hygiene to volume level, directly impact the comfort, focus, and well-being of others. 
+
+# Febraury 10, 2026
+
+Do you enjoy football? Why or why not?
+Rationale: Identifies if the respondent is a casual fan, enthusiast, or disinterested, highlighting reasons such as athletic talent, community, or lack of interest.
+Did you watch Super Bowl LX?
+Rationale: Determines engagement with the 2026 championship game.
+If you watched, what was your opinion?
+Rationale: Gathers feedback on the game, halftime show, and overall spectacle, allowing for critiques on quality or entertainment value. 
+Super Bowl LX, held in early February 2026, was a notable event with high-profile wagers reported. People typically enjoy football for its athleticism, teamwork, and social aspects. 
