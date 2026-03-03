@@ -536,3 +536,16 @@ Rationale: Determines engagement with the 2026 championship game.
 If you watched, what was your opinion?
 Rationale: Gathers feedback on the game, halftime show, and overall spectacle, allowing for critiques on quality or entertainment value. 
 Super Bowl LX, held in early February 2026, was a notable event with high-profile wagers reported. People typically enjoy football for its athleticism, teamwork, and social aspects. 
+
+
+
+
+
+# March 2, 2026
+Company: USAA
+Job Title: Software Engineer - Mid Level (DevOps)
+Education Required: Bachelor's degree in Computer Science, Engineering, or related field; or 4 additional years of related experience in lieu of a degree.
+Experience Required: 4+ years of software development experience; 2+ years of experience delivering technology solutions in all phases of the SDLC.
+Skills / Tools / Languages: Java, Python, Go, JavaScript, SQL, AWS, Kafka, Terraform, Docker, Kubernetes, CI/CD pipelines (GitLab CI).
+Certifications (if any): Approved certification from CodeUp, Galvanize, VetFIT, or eFIT is acceptable in lieu of a degree.
+What the job does: Design, develop, code, and test complex technical solutions, focusing on DevOps and cloud infrastructure to improve application stability and scalability. 
