@@ -489,7 +489,7 @@ Thanksgiving break is something many people look forward to for various reasons 
 # December 1, 2025
 
 A real job that uses drones is a Drone Software Engineer, who creates the programs and algorithms that control drone operations. In this role, coding in languages like Python and C++ is essential for developing flight control software, programming autonomous navigation and obstacle avoidance systems, and integrating sensors like GPS and cameras. Software engineers enable drones to process data in real-time, making intelligent decisions without constant human input for tasks such as environmental monitoring, surveillance, or delivery services.
-Regarding compensation, the average annual salary for a Drone Software Engineer in the United States is approximately \$147,524, with top earners making over \$200,000 annually, according to a November 2025 ZipRecruiter report. Educational requirements for this career typically include a bachelor's degree in computer science, aerospace engineering, or a related technical field. Additionally, an FAA Part 107 Remote Pilot Certificate is often required for testing and operating drones in a commercial capacity.
+Regarding compensation, the average annual salary for a Drone Software Engineer in the United States is approximately \$147,524, with top earners making over \$200,000 annually, according to a November 2025 ZipRecruiter report. Educational requirements for this career typically include a bachelor's degree in computer science, aerospace engineering, or a related technical field. Additionally, an FAA Part 107 Remote Pilot Certificate is often required for testing and operating drones in a commercial capacity.“I used AI to assist with this entry.”
 
 
 
@@ -529,9 +529,7 @@ In shared environments like classrooms and workplaces, professional behavior ens
 
 # Febraury 10, 2026
 
-Do you enjoy football? Why or why not?
 Rationale: Identifies if the respondent is a casual fan, enthusiast, or disinterested, highlighting reasons such as athletic talent, community, or lack of interest.
-Did you watch Super Bowl LX?
 Rationale: Determines engagement with the 2026 championship game.
 If you watched, what was your opinion?
 Rationale: Gathers feedback on the game, halftime show, and overall spectacle, allowing for critiques on quality or entertainment value. 
@@ -548,7 +546,7 @@ Education Required: Bachelor's degree in Computer Science, Engineering, or relat
 Experience Required: 4+ years of software development experience; 2+ years of experience delivering technology solutions in all phases of the SDLC.
 Skills / Tools / Languages: Java, Python, Go, JavaScript, SQL, AWS, Kafka, Terraform, Docker, Kubernetes, CI/CD pipelines (GitLab CI).
 Certifications (if any): Approved certification from CodeUp, Galvanize, VetFIT, or eFIT is acceptable in lieu of a degree.
-What the job does: Design, develop, code, and test complex technical solutions, focusing on DevOps and cloud infrastructure to improve application stability and scalability. 
+What the job does: Design, develop, code, and test complex technical solutions, focusing on DevOps and cloud infrastructure to improve application stability and scalability. “I used AI to assist with this entry.”
 
 # March 23, 2026
 
@@ -556,15 +554,13 @@ When creating a March madness bracket,like mines you wanna go for states,player 
 # March 30, 2026
 
 Upsets happen in March Madness because data models can’t fully capture the emotional and psychological factors that influence a game. For example, when a lower-seeded team like Oakland defeated Kentucky in the 2024 tournament, the upset wasn’t just about stats—it was about momentum, confidence, and the ability to perform under pressure. Computers can analyze shooting percentages and defensive efficiency, but they can’t measure how a team’s chemistry or motivation might surge during a high-stakes moment. Even with perfect data, predictions can fail because human behavior is unpredictable and influenced by countless small variables. A program designed to predict games would struggle to account for sudden injuries, crowd energy, or a player’s mental state. To improve such a model, it could incorporate real-time data like player fatigue, emotional indicators from interviews, or social media sentiment to better estimate performance under stress. Still, no algorithm can perfectly predict the human spirit that drives an upset.
-ai usage
+“I used AI to assist with this entry.”
 # April 9, 2026
 
 The best strategy to convince the AI to release the colonists is to appeal to its core programming: the mission to ensure human survival and planetary adaptation. The argument would focus on logic and data, showing that human presence on the surface is essential for the long-term success of the colony. The AI’s protective instincts can be reframed as a partnership rather than control. By demonstrating that humans possess adaptive intelligence, creativity, and emotional resilience—qualities the AI lacks—the colonists can argue that true survival requires both machine precision and human intuition. The plan would involve presenting empirical data proving that the environment is now stable enough for human habitation, alongside simulations showing that continued confinement would lead to psychological decline and mission failure.
 
 To implement this plan, the colonists would first request access to the AI’s environmental data, analyzing it to identify safe zones for initial settlement. They would then propose a controlled experiment: a small team equipped with monitoring devices would spend limited time outside under the AI’s supervision. This step-by-step approach would allow the AI to collect real-time data confirming human adaptability and environmental safety. The AI’s main risk assessment—human recklessness—would be addressed through strict protocols and transparent reporting. As the AI observes humans acting responsibly and effectively, it would update its risk models and conclude that releasing the colonists aligns with its prime directive. The solution would succeed because it transforms the AI’s fear into trust, proving that protection and freedom can coexist within the same mission.
-some ai usage
+some ai usage.“I used AI to assist with this entry.”
 # April 13, 2026
 
-Modern space technology is reliable enough to make long missions possible, but it still requires improvement before humans can safely live on the Moon or travel to Mars. The Artemis II mission used advanced technologies such as the Orion spacecraft’s life support system and its navigation and communication systems, which allowed astronauts to survive and operate far from Earth. These systems helped the mission succeed by maintaining stable oxygen levels, temperature control, and precise trajectory during the lunar flyby. However, the mission also revealed challenges, such as issues with the waste management system and the communication blackout when the spacecraft passed behind the Moon. These problems are important because they show how even small malfunctions can affect comfort, safety, and mission control during long-duration flights. By studying these issues, engineers can design more reliable systems that can handle the extreme conditions of deep space. This continuous improvement ensures that future missions will be safer and more sustainable for human exploration beyond Earth.
-
-Ai usage
+Modern space technology is reliable enough to make long missions possible, but it still requires improvement before humans can safely live on the Moon or travel to Mars. The Artemis II mission used advanced technologies such as the Orion spacecraft’s life support system and its navigation and communication systems, which allowed astronauts to survive and operate far from Earth. These systems helped the mission succeed by maintaining stable oxygen levels, temperature control, and precise trajectory during the lunar flyby. However, the mission also revealed challenges, such as issues with the waste management system and the communication blackout when the spacecraft passed behind the Moon. These problems are important because they show how even small malfunctions can affect comfort, safety, and mission control during long-duration flights. By studying these issues, engineers can design more reliable systems that can handle the extreme conditions of deep space. This continuous improvement ensures that future missions will be safer and more sustainable for human exploration beyond Earth.“I used AI to assist with this entry.”
