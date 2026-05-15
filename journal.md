@@ -1,4 +1,4 @@
-_# August 27, 2025
+# August 27, 2025
 
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 
@@ -564,3 +564,16 @@ some ai usage.“I used AI to assist with this entry.”
 # April 13, 2026
 
 Modern space technology is reliable enough to make long missions possible, but it still requires improvement before humans can safely live on the Moon or travel to Mars. The Artemis II mission used advanced technologies such as the Orion spacecraft’s life support system and its navigation and communication systems, which allowed astronauts to survive and operate far from Earth. These systems helped the mission succeed by maintaining stable oxygen levels, temperature control, and precise trajectory during the lunar flyby. However, the mission also revealed challenges, such as issues with the waste management system and the communication blackout when the spacecraft passed behind the Moon. These problems are important because they show how even small malfunctions can affect comfort, safety, and mission control during long-duration flights. By studying these issues, engineers can design more reliable systems that can handle the extreme conditions of deep space. This continuous improvement ensures that future missions will be safer and more sustainable for human exploration beyond Earth.“I used AI to assist with this entry.”
+
+# April, 20 2026
+AI's role in creative media shifts the focus from human connection to technical efficiency, which ultimately compromises the trust we place in what we consume. While AI can produce catchy melodies or viral videos, it lacks the lived experience and emotional depth that allow human-created content to resonate on a personal level. For instance, the rise of "deepfake" social media content and AI-generated songs has already led to confusion regarding what is authentic and what is manufactured. 
+
+# April, 27 2026
+Technology played a crucial role in my experience of the NBA Playoffs this week by making the games instantly accessible and interaction. I watched high-definition live streams on my tablet and immediately checked real-time statistics and advanced player analytics on sports apps during halftime.This matters because technology has transformed sports from a passive viewing experience into an active, data-driven one. It changes how fans interact with the game, allowing us to understand player performance instantly rather than waiting for post-game analysis.
+
+# May 6, 2026
+I am not just a passive consumer of digital platforms; I am an active contributor to the training and refinement of artificial intelligence systems through my daily online interactions.These actions are valuable to tech companies because human-labeled data is the "gold standard" for machine learning. By clicking or scrolling, I am essentially validating or correcting the AI's predictions, allowing the system to improve its accuracy over time. This realization makes me view these platforms differently; I now see my "free" use of these services as a form of digital labor where my behavioral data is the currency being traded for better predictive technology.
+
+
+
+
